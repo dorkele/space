@@ -21,7 +21,3 @@ CSS animations indicate player's turn and victory
 -   HTML5
 -   CSS3
 -   jQuery
-
-## Explore on your own
-
-...
